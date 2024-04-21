@@ -52,9 +52,7 @@ class Payment:
                     continue
                 else:
                     return "failed"
-            else:
-                return "failed"
-
+            
            
            
 
